@@ -7,7 +7,7 @@
  
 ### Starting Locations
 
-![Starting Locations] (/resources/1_start_locations.png)
+[Starting Locations](/resources/1_start_locations.png)
 
 ### Ending Locations
 
